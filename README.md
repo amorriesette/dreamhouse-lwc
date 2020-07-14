@@ -1,4 +1,7 @@
 # Dreamhouse Lightning Web Components Sample Application
+<a href="https://heroku.com/deploy"> 
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> 
+</a>
 
 [![Github Workflow](<https://github.com/dreamhouseapp/dreamhouse-lwc/workflows/Salesforce%20DX%20(scratch%20org)/badge.svg?branch=master>)](https://github.com/dreamhouseapp/dreamhouse-lwc/actions?query=workflow%3A%22Salesforce+DX+%28scratch+org%29%22) [![Github Workflow](<https://github.com/dreamhouseapp/dreamhouse-lwc/workflows/Salesforce%20DX%20(packaging)/badge.svg?branch=master>)](https://github.com/dreamhouseapp/dreamhouse-lwc/actions?query=workflow%3A%22Salesforce+DX+%28packaging%29%22)
 
