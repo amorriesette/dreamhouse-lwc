@@ -1,0 +1,12 @@
+{
+    "name": "dreamhouse-lwc",
+    "description": "DreamHouse",
+    "keywords": [
+      "app-cloud"
+    ],
+    "repository":  "https://github.com/amorriesette/intro-to-heroku",
+    "addons": [
+      "heroku-postgresql"
+    ]
+  }
+  
