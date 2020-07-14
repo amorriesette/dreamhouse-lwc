@@ -1,13 +1,27 @@
 {
   "name": "dreamhouse-lwc",
   "description": "DreamHouse",
-  "keywords": [
-    "app-cloud"
-  ],
   "repository":  "https://github.com/amorriesette/dreamhouse-lwc",
+  "scripts": {},
   "addons": [
     "heroku-postgresql"
-  ]
+  ],
+  "env": {
+        "NODE_ENV": {
+            "required": true
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ],
+    "stack": "heroku-18"
 }
 
   
